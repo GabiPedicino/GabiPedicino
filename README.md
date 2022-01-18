@@ -14,7 +14,7 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 
 -Ruby
 
-|ＳｏＢｒＥ   Ｍｉ|
+|ＳｏＢｒＥ     Ｍｉ|
 
 *Soy una persona responsable y dedicada con las tareas que se me encomiendan.
 Busco resolver los inconvenientes que se me presentan y, en caso de no poder resolverlos, sé levantar la mano para pedir ayuda.
