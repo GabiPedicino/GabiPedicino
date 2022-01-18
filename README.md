@@ -39,9 +39,13 @@ My name is Gabriela Pedicino and I am currently training as a frontend and fulls
 |ＳＫＩＬＬＳ|
 
 -HTML
+
 -CSS ⇾ frameworks: Bulma, Bootstrap
+
 -JavaScript
+
 -C
+
 -Ruby
 
 |ＡｂＯｕＴ  Ｍｅ|
