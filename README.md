@@ -27,8 +27,7 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
    
  <> ✉📧 gabrielapedicino@gmail.com </>
 
-- ⚡ Dato curioso: soy hincha de Boca Juniors, de las plantas y del mate.
- 
+- ⚡ Dato curioso: soy fanática de Boca Juniors, de las plantas y del mate.
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
@@ -61,4 +60,4 @@ I like to work in a team in order to continue learning*
    
    <> ✉📧 gabrielapedicino@gmail.com </>
    
-- ⚡ Fun fact: I´m Boca Juniors, plants and mate fan.
+- ⚡ Fun fact: I'm a fan of Boca Juniors, plants and mate.
