@@ -24,8 +24,8 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
  <> ✉📧 gabrielapedicino@gmail.com </>
 
 - ⚡ Dato curioso: soy hincha de Boca Juniors, de las plantas y del mate.
-- 
-- 
+ 
+ 
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
 Hi! 🙋🏻‍♀ thanks for visiting my profile✨
