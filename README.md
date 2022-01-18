@@ -5,9 +5,13 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 |ＨＡＢＩＬＩＤＡＤＥＳ|
 
 -HTML
+
 -CSS ⇾ frameworks: Bulma, Bootstrap
+
 -JavaScript
+
 -C
+
 -Ruby
 
 |ＳｏＢｒＥ Ｍｉ|
