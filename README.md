@@ -21,9 +21,16 @@ Busco resolver los inconvenientes que se me presentan y, en caso de no poder res
 Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
 ¿Querés conocer mis trabajos?
+
 **Portfolio:** https://gabipedicino.github.io/Portfolio/ 
+
+
 **Generador de memes:** https://gabipedicino.github.io/Editor-de-Memes/
+
+
 **Convertidor de pesos a dólar - dólar a pesos:** https://gabipedicino.github.io/Conversor/
+
+
 **Calculadora de IMC:** https://gabipedicino.github.io/Calculadora-IMC/
 
 - 📫 Cómo contactarme: 
@@ -31,7 +38,7 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 - **E-mail:** gabrielapedicino@gmail.com
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
 
-- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif) y ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif).
+- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif width="40" height="40"), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif width="40" height="40") y el ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif width="40" height="40").
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
