@@ -39,7 +39,7 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
 - ⚡ Dato curioso: soy fanática de 
 
-![Alt Text](https://tenor.com/view/club-atl%C3%A9tico-boca-juniors-la-boca-buenos-aires-xeneizes-azul-y-oro-gif-14758328), las ![Alt Text](https://tenor.com/view/orlandosoyyo-plant-doodle-planta-wind-gif-14848092) y el ![Alt Text](https://tenor.com/view/mate-food-joypixels-caffeine-rich-infused-drink-mate-leaves-gif-17392797).
+![Alt Text](https://media.giphy.com/media/XbgSgvkAJiC8fAzlZr/giphy.gif), las ![Alt Text](https://media.giphy.com/media/mjQG3C8g8Uzc9Cv09F/giphy.gif) y el ![Alt Text](https://media.giphy.com/media/lGBeeSvVQA7xME62Df/giphy.gif).
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
