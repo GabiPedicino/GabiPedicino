@@ -1,7 +1,7 @@
 ⒽⓄⓁⒶ!  🙋🏻‍♀ Gracias por pasar por mi perfil!
 
 
-![Alt Text](https://c.tenor.com/bftQl.gif)
+![Alt Text](https://c.tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627)
 
 Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y fullstack.
 
