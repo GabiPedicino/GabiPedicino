@@ -1,8 +1,7 @@
 ⒽⓄⓁⒶ!  🙋🏻‍♀ Gracias por pasar por mi perfil!
 
 
-
-![Alt Text](https://tenor.com/view/hi-hello-smile-happy-doggie-gif-14181971)
+![Alt Text](https://tenor.com/bftQl.gif)
 
 Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y fullstack.
 
