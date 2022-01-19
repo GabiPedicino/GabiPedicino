@@ -37,7 +37,9 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 - **E-mail:** gabrielapedicino@gmail.com
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
 
-- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif) y el ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif).
+- ⚡ Dato curioso: soy fanática de 
+
+![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif) y el ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif).
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
@@ -64,10 +66,8 @@ I seek to solve the problems that are presented to me and, in case of not being 
 I like to work in a team in order to continue learning*
 
 
-- 📫 How to reach me: 
-
-   <> 📱LinkedIn: gabrielapedicino </>
-   
-   <> ✉📧 gabrielapedicino@gmail.com </>
+- 📫 How to reach me:  
+- **E-mail:** gabrielapedicino@gmail.com
+- **Linkedin:** www.linkedin.com/in/gabrielapedicino
    
 - ⚡ Fun fact: I'm a fan of Boca Juniors, plants and mate.
