@@ -33,12 +33,11 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
 **Calculadora de IMC:** https://gabipedicino.github.io/Calculadora-IMC/
 
-- 📫 Cómo contactarme: 
-- 
+- 📫 Cómo contactarme:  
 - **E-mail:** gabrielapedicino@gmail.com
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
 
-- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif width="40" height="40"), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif width="40" height="40") y el ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif width="40" height="40").
+- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif) y el ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif).
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
