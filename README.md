@@ -37,9 +37,7 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 - **E-mail:** gabrielapedicino@gmail.com
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
 
-- ⚡ Dato curioso: soy fanática de 
-
-![Alt Text](https://media.giphy.com/media/XbgSgvkAJiC8fAzlZr/giphy.gif), las ![Alt Text](https://media.giphy.com/media/mjQG3C8g8Uzc9Cv09F/giphy.gif) y el ![Alt Text](https://media.giphy.com/media/lGBeeSvVQA7xME62Df/giphy.gif).
+- ⚡ Dato curioso: soy fanática de Boca Juniors, las plantas y el mate.
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
