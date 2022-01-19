@@ -1,5 +1,5 @@
-
-![Alt Text](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)   Gracias por pasar por mi perfil!
+ⒽⓄⓁⒶ!! Gracias por pasar por mi perfil!
+![Alt Text](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 
 Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y fullstack.
