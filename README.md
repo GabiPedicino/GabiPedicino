@@ -7,15 +7,12 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 
 |ＨＡＢＩＬＩＤＡＤＥＳ|
 
--HTML
-
--CSS ⇾ frameworks: Bulma, Bootstrap
-
--JavaScript
-
--C
-
--Ruby
+ 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.ruby-lang.org/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"/> </a>
 
 |ＳｏＢｒＥ     Ｍｉ|
 
@@ -23,14 +20,18 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 Busco resolver los inconvenientes que se me presentan y, en caso de no poder resolverlos, sé levantar la mano para pedir ayuda.
 Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
+¿Querés conocer mis trabajos?
+**Portfolio:** https://gabipedicino.github.io/Portfolio/ 
+**Generador de memes:** https://gabipedicino.github.io/Editor-de-Memes/
+**Convertidor de pesos a dólar - dólar a pesos:** https://gabipedicino.github.io/Conversor/
+**Calculadora de IMC:** https://gabipedicino.github.io/Calculadora-IMC/
 
 - 📫 Cómo contactarme: 
+- 
+- **E-mail:** gabrielapedicino@gmail.com
+- **Linkedin:** www.linkedin.com/in/gabrielapedicino
 
- <> 📱LinkedIn: gabrielapedicino </>
-   
- <> ✉📧 gabrielapedicino@gmail.com </>
-
-- ⚡ Dato curioso: soy fanática de Boca Juniors, de las plantas y del mate.
+- ⚡ Dato curioso: soy fanática de ![Alt Text](https://media.giphy.com/media/7StStQv4O5HFK/giphy.gif), las ![Alt Text](https://media.giphy.com/media/Vjo4pAOOxmvZwg7ksi/giphy.gif) y ![Alt Text](https://media.giphy.com/media/chcMBszSU41BYrcabB/giphy.gif).
  
 ¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨¸.•´¸♥➷♥¸.•´♥¸.•´♥¸.•*¨
 
