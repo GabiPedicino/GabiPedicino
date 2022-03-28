@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 
-Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y fullstack.
+Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y cursando el primer año de la Licenciatura en Sistemas.
 
 |ＨＡＢＩＬＩＤＡＤＥＳ|
 
@@ -15,9 +15,9 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 
 |ＳｏＢｒＥ     Ｍｉ|
 
-*Soy una persona responsable y dedicada con las tareas que se me encomiendan.
-Busco resolver los inconvenientes que se me presentan y, en caso de no poder resolverlos, sé levantar la mano para pedir ayuda.
-Me gusta trabajar en equipo para poder así continuar aprendiendo.*
+*Me considero una persona proactiva,responsable y de rápido aprendizaje. Me gusta el trabajo en 
+equipo ya que es una buena oportunidad para adquirir nuevos conocimientos. Actualmente estoy en búsqueda de mi primer trabajo
+como desarrolladora Frontend. Cuento con gran motivación para seguir perfeccionando habilidades y crecer profesionalmente.*
 
 ¿Querés conocer mis trabajos?
 
@@ -32,6 +32,8 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
 **Calculadora de IMC:** https://gabipedicino.github.io/Calculadora-IMC/
 
+**Sistema de registro de ventas:** https://gabipedicino.github.io/adaComputacion/
+
 - 📫 Cómo contactarme:  
 - **E-mail:** gabrielapedicino@gmail.com
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
@@ -42,7 +44,7 @@ Me gusta trabajar en equipo para poder así continuar aprendiendo.*
 
 Hi! 🙋🏻‍♀ thanks for visiting my profile✨
 
-My name is Gabriela Pedicino and I am currently training as a frontend and fullstack developer.
+My name is Gabriela Pedicino and I am currently training as a frontend developer and taking the first year of the Bachelor in Systems.
 
 |ＳＫＩＬＬＳ|
 
@@ -56,9 +58,8 @@ My name is Gabriela Pedicino and I am currently training as a frontend and fulls
 
 |ＡｂＯｕＴ  Ｍｅ|
 
-*I am a responsible and dedicated person with the tasks entrusted to me.
-I seek to solve the problems that are presented to me and, in case of not being able to solve them, I know how to raise my hand to ask for help.
-I like to work in a team in order to continue learning*
+*I consider myself a proactive, responsible and fast learner. I like teamwork as it is a good opportunity to acquire new knowledge. 
+I am currently looking for my first job as a Frontend developer. I am highly motivated to keep improving my skills and grow professionally.*
 
 
 - 📫 How to reach me:  
