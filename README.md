@@ -60,6 +60,12 @@ My name is Gabriela Pedicino and I am currently training as a frontend developer
 
 -JavaScript
 
+-Bulma
+
+-Bootstrap
+
+-Sass
+
 -React JS
 
 -C
