@@ -8,10 +8,16 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 |ＨＡＢＩＬＩＤＡＤＥＳ|
 
  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://desarrolloweb.com/home/git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.vectorlogo.zone/logos/github/github-tile.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://desarrolloweb.com/articulos/que-es-sass-usar-sass.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://www.hostinger.com.ar/tutoriales/que-es-bootstrap" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstap" width="40" height="40"/> </a> 
+<a href="https://bulma.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EAHCbAKntoQMWD5l98uFYON-d6FidSSm1ykX3rjrybdD9p32WRXO8OW3sHeHqIHq2uQ&usqp=CAU" alt="bulma" width="40" height="40"/> </a> 
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/> </a> 
+
 
 |ＳｏＢｒＥ     Ｍｉ|
 
@@ -50,9 +56,11 @@ My name is Gabriela Pedicino and I am currently training as a frontend developer
 
 -HTML
 
--CSS ⇾ frameworks: Bulma, Bootstrap
+-CSS ⇾ frameworks: Bulma, Bootstrap, Sass
 
 -JavaScript
+
+-React JS
 
 -C
 
