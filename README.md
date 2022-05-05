@@ -5,7 +5,7 @@
 
 Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y cursando el primer año de la Licenciatura en Sistemas.
 
-|ＨＡＢＩＬＩＤＡＤＥＳ|
+<h2>| Manejo las siguientes tecnologías |</h2>
 
  
 <a href="https://desarrolloweb.com/home/git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -19,26 +19,26 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me 
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/> </a> 
 
 
-|ＳｏＢｒＥ     Ｍｉ|
+<h2>|ＳｏＢｒＥ     Ｍｉ|</h2>
 
-*Me considero una persona proactiva,responsable y de rápido aprendizaje. Me gusta el trabajo en 
+<strong>Me considero una persona proactiva,responsable y de rápido aprendizaje. Me gusta el trabajo en 
 equipo ya que es una buena oportunidad para adquirir nuevos conocimientos. Actualmente estoy en búsqueda de mi primer trabajo
-como desarrolladora Frontend. Cuento con gran motivación para seguir perfeccionando habilidades y crecer profesionalmente.*
+como desarrolladora Frontend. Cuento con gran motivación para seguir perfeccionando habilidades y crecer profesionalmente.</strong>
 
 ¿Querés conocer mis trabajos?
 
-**Portfolio:** https://gabipedicino.github.io/Portfolio/ 
+<strong>Portfolio:</strong> https://gabipedicino.github.io/Portfolio/ 
 
 
-**Generador de memes:** https://gabipedicino.github.io/Editor-de-Memes/
+<strong>Generador de memes:</strong> https://gabipedicino.github.io/Editor-de-Memes/
 
 
-**Convertidor de pesos a dólar - dólar a pesos:** https://gabipedicino.github.io/Conversor/
+<strong>Convertidor de pesos a dólar - dólar a pesos:</strong> https://gabipedicino.github.io/Conversor/
 
 
-**Calculadora de IMC:** https://gabipedicino.github.io/Calculadora-IMC/
+<strong>Calculadora de IMC:</strong> https://gabipedicino.github.io/Calculadora-IMC/
 
-**Sistema de registro de ventas:** https://gabipedicino.github.io/adaComputacion/
+<strong>Sistema de registro de ventas:</strong> https://gabipedicino.github.io/adaComputacion/
 
 - 📫 Cómo contactarme:  
 - **E-mail:** gabrielapedicino@gmail.com
@@ -70,10 +70,10 @@ My name is Gabriela Pedicino and I am currently training as a frontend developer
 
 -C
 
-|ＡｂＯｕＴ  Ｍｅ|
+<h2> |ＡｂＯｕＴ  Ｍｅ| </h2>
 
-*I consider myself a proactive, responsible and fast learner. I like teamwork as it is a good opportunity to acquire new knowledge. 
-I am currently looking for my first job as a Frontend developer. I am highly motivated to keep improving my skills and grow professionally.*
+<strong>I consider myself a proactive, responsible and fast learner. I like teamwork as it is a good opportunity to acquire new knowledge. 
+I am currently looking for my first job as a Frontend developer. I am highly motivated to keep improving my skills and grow professionally.</strong>
 
 
 - 📫 How to reach me:  
