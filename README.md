@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 
-Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ y actualmente me estoy formando como desarrolladora frontend y cursando el primer año de la Licenciatura en Sistemas.
+Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ. Soy Desarrolladora Frontend y actualmente estoy cursando el primer año de la Licenciatura en Sistemas.
 
 <h2>| Manejo las siguientes tecnologías |</h2>
 
