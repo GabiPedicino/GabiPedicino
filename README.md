@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 
-Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ. Soy Desarrolladora Frontend y actualmente estoy cursando el primer año de la Licenciatura en Sistemas.
+Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ. Soy Desarrolladora Frontend y actualmente estoy cursando el segundo año de la Licenciatura en Sistemas.
 
 <h2>| Manejo las siguientes tecnologías |</h2>
 
@@ -81,3 +81,4 @@ I am currently looking for my first job as a Frontend developer. I am highly mot
 - **Linkedin:** www.linkedin.com/in/gabrielapedicino
    
 - ⚡ Fun fact: I'm a fan of Boca Juniors, plants and mate.
+  
