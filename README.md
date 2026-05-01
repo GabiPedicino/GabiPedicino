@@ -50,7 +50,7 @@ como desarrolladora Frontend. Cuento con gran motivación para seguir perfeccion
 
 Hi! 🙋🏻‍♀ thanks for visiting my profile✨
 
-My name is Gabriela Pedicino and I am currently training as a frontend developer and taking the first year of the Bachelor in Systems.
+My name is Gabriela Pedicino and I am currently training as a frontend developer and taking the second year of the Bachelor in Systems.
 
 |ＳＫＩＬＬＳ|
 
