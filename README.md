@@ -15,7 +15,6 @@ Mi nombre es Ｇａｂｒｉｅｌａ Ｐｅｄｉｃｉｎｏ. Soy Desarrollado
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://desarrolloweb.com/articulos/que-es-sass-usar-sass.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.hostinger.com.ar/tutoriales/que-es-bootstrap" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstap" width="40" height="40"/> </a> 
-<a href="https://bulma.io/" target="_blank"> <img src="https://bulma.io/" alt="bulma" width="40" height="50"/> </a> 
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/> </a> 
 
 
